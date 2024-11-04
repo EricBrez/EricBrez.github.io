@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Draft 1
+title: Eric Breznen
 description: This is my first draft of my ePortfolio
