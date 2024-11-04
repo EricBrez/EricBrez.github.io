@@ -1,1 +1,7 @@
-# EricBrez.github.io
+# Eric Breznen
+
+## Education
+ - B.S. Computer Science, Southern New Hampshire University (in progress)
+
+### General
+ - Hello, this is the first draft of my GitHub pages ePortfolio. Work on it will continue in the coming weeks.
