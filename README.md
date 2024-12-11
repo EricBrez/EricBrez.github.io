@@ -1,5 +1,3 @@
-# Draft One
-
 ## Education
  - B.S. Computer Science, Southern New Hampshire University (in progress)
 
