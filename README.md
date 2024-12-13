@@ -13,7 +13,7 @@ To conclude, the projects in my portfolio demonstrate my progression throughout 
 ### Work
  - [Example Code Review](https://youtu.be/NGPr_LtFRRg)
 
- - [Porting an application from Java to C++](https://github.com/EricBrez/PortfolioProject1)
+ - [Porting an application from Java to C++ with security imporvements](https://github.com/EricBrez/PortfolioProject1)
 
  - [Creating a new algorithm to calculate debts in an investment calculator](https://github.com/EricBrez/PortfolioProject2)
 
