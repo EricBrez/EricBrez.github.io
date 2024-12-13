@@ -17,6 +17,6 @@
 
  - [Creating a new algorithm to calculate debts in an investment calculator](https://github.com/EricBrez/PortfolioProject2)
 
- - [Adding a SQLITE database to a C++ database](https://github.com/EricBrez/PortfolioProject3)
+ - [Adding a SQLITE database to a C++ Application](https://github.com/EricBrez/PortfolioProject3)
 
 
