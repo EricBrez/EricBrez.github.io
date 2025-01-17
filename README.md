@@ -23,4 +23,6 @@ enhancements, I have emphasized the significant improvements in code structure, 
 
  - [Adding a SQLITE database to a C++ application](https://github.com/EricBrez/PortfolioProject3)
 
+ - [Full GitHub Profile](https://github.com/EricBrez)
+
 
